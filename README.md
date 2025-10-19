@@ -33,14 +33,4 @@
 
 ---
 
-## Popular Repositories
 
-1. **UNDER_THE_SEA**  
-   เป็นโปรเจคในวิชา Frontend Software Development และวิชา Software Requirement เป็นเว็บไซต์จองคิวทำเล็บที่ถูกพัฒนาโดยกลุ่ม Under the Sea จากสาขาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา สำหรับปีการศึกษา 2567
-2. **EXAM**  
-   เป็นเว็บไซต์สำหรับฝึกทำข้อสอบ
-3. **To-do-List**
-4. **Travel**
-5. **TO_DO_LIST**  
-   เป็นโปรเจคในวิชา Fundamental of Database System และ Software Process พัฒนาโดยกลุ่ม Zero Gravity จากสาขาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา สำหรับปีการศึกษา 2568
-6. **Classroom-meeting-room-booking-system**
