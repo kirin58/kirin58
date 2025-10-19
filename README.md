@@ -1,33 +1,46 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ptpxptr/ptpxptr/main/dark-background.png" alt="Background" width="100%">
-</p>
+# Hi 👋 My name is Peerapat Sawaengram
 
-<h1 align="center">Hi 👋 My name is Peerapat Sawaengram</h1>
-
-<h3 align="center">Student</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-</p>
-
-<h3 align="center">Socials</h3>
-<p align="center">
-  <a href="https://github.com/kirin58"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a>
-  <a href="https://www.facebook.com/ptpx.ptr/"><img src="https://img.icons8.com/ios-filled/30/ffffff/facebook-new.png"/></a>
-</p>
-
-<h3>Badges</h3>
-<p>
-  ![Peerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirin58&theme=dark&show_icons=true)
-</p>
+### Student
 
 <p>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirin58&theme=dark&layout=compact)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30"/>
+
 </p>
+---
+
+### Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirin58)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ptpx.ptr/)
+
+---
+
+### Badges
+
+
+![Peerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirin58&theme=dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirin58&theme=dark&layout=compact)
+
+---
+
+## Popular Repositories
+
+1. **UNDER_THE_SEA**  
+   เป็นโปรเจคในวิชา Frontend Software Development และวิชา Software Requirement เป็นเว็บไซต์จองคิวทำเล็บที่ถูกพัฒนาโดยกลุ่ม Under the Sea จากสาขาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา สำหรับปีการศึกษา 2567
+2. **EXAM**  
+   เป็นเว็บไซต์สำหรับฝึกทำข้อสอบ
+3. **To-do-List**
+4. **Travel**
+5. **TO_DO_LIST**  
+   เป็นโปรเจคในวิชา Fundamental of Database System และ Software Process พัฒนาโดยกลุ่ม Zero Gravity จากสาขาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา สำหรับปีการศึกษา 2568
+6. **Classroom-meeting-room-booking-system**
