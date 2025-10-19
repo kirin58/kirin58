@@ -1,26 +1,33 @@
-# Hi 👋 My name is Peerapat Sawaengram
-### Student
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ptpxptr/ptpxptr/main/dark-background.png" alt="Background" width="100%">
+</p>
 
----
+<h1 align="center">Hi 👋 My name is Peerapat Sawaengram</h1>
 
-### 🧠 Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h3 align="center">Student</h3>
 
----
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+</p>
 
-### 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/pxttxrxxon)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/your-facebook-link)
+<h3 align="center">Socials</h3>
+<p align="center">
+  <a href="https://github.com/kirin58"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a>
+  <a href="https://www.facebook.com/ptpx.ptr/"><img src="https://img.icons8.com/ios-filled/30/ffffff/facebook-new.png"/></a>
+</p>
 
----
+<h3>Badges</h3>
+<p>
+  ![Peerapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirin58&theme=dark&show_icons=true)
+</p>
 
-### 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxttxrxxon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxttxrxxon&layout=compact&theme=tokyonight)
+<p>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirin58&theme=dark&layout=compact)
+</p>
