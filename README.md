@@ -19,9 +19,23 @@
 
 ### Socials
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirin58)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ptpx.ptr/)
+
+  <a href="https://github.com/kirin58">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ptpx.ptr/">
+    <img 
+      src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" 
+      alt="Facebook"
+    />
+  </a>
+
 </div>
+
 
 ---
 
