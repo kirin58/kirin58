@@ -5,10 +5,6 @@
 ## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/🌱_My_Portfolio-Next.js-10b981?style=for-the-badge)](https://port-seven-zeta-17.vercel.app)
 
-## 📊 Stats
-![streak](https://streak-stats.demolab.com?user=kirin58&theme=transparent&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirin58&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirin58&theme=github_dark)
 
 ## Stack
 
